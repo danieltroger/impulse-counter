@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "eslint-config-standard": "^16.0.3",
+    "rpi-gpio": "^2.1.7"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/rpi-gpio": "^2.1.1"
+  }
+}
